@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# API REST
+*.rest
+
+# npm.lock
+package-lock.json
+
+#style lint cache
+.stylelintcache
