@@ -1,0 +1,133 @@
+
+
+.deta {
+    margin-left: 200px;
+    margin-top: 100px;
+    width: 650px;
+    height:400px;
+    display: flex;
+    position: relative;
+    text-align: center;
+    bottom: -0.12%;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2), 0px 1px 4px rgba(0, 0, 0, 0.14), 0px 1px 10px rgba(0, 0, 0, 0.12);
+}
+
+.contenedor {
+  position: absolute;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-top: 100px;
+  margin-left: 30px;
+  text-align: start;
+  font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 12px;
+/* identical to box height */
+
+
+color: #525252;
+  
+}
+
+.contenedor div{
+    width: 50%;  
+}
+
+.principal {
+    width: 100px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 13px;
+    line-height: 15px;
+    
+  }
+.sidebar {
+    width: 80%;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 12px;
+    line-height: 15px;
+    
+  }
+
+.pdetalle {
+    display: block;
+    position: absolute;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FF6900;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.img2 {
+    display: inline-block;
+    position:relative;
+    margin-right: 50px;
+    margin-top: 50px;
+   
+
+
+}s
+.img3 {
+    position:relative;
+    margin-left: 60px;
+    margin-top: 55px;
+    z-index: 1;
+}
+.reservadetail {
+
+    position: fixed;
+    margin-left: 10px;
+    margin-top: 100px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 12px;
+    color: #525252;
+
+}
+.btnvolver2 {
+   
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 550px;
+    border: 2px solid #FF6900;
+    border-radius: 5px;
+    color: #FF6900;
+    background-color: #FFFFFF;    
+    font-family: 'Proxima Nova';
+    font-weight: 650;
+    font-size: 17px;
+    line-height: 24px;
+    
+}
+.btnprint {
+height: 40px;
+width: 140px;
+    position: absolute;
+margin-top: 340px;
+margin-left: 20px;
+border: 2px solid #FF6900;
+border-radius: 5px;
+color: #f8f8f8;
+background-color: #FFFFFF;    
+font-family: 'Proxima Nova';
+font-weight: 600;
+font-size: 15px;
+line-height: 24px;
+background: #FF6900;
+
+}
+

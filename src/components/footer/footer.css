@@ -1,0 +1,36 @@
+
+
+
+
+.box {
+    display: flex;
+    position: absolute;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-top: 250px;
+    width: 700px;
+    height:400px;
+    display: flex;
+    text-align: center;
+    
+}
+
+.trasnvip{
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 24px;
+    color: #FF6900;
+}
+
+.relajate{
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 600;
+    font-size:13px;
+    line-height: 15px;
+    color: #FF6900;
+}
+
+

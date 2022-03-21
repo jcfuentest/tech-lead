@@ -1,0 +1,101 @@
+
+
+
+.findjob {
+    margin-left: 300px;
+    margin-top: 100px;
+    width: 500px;
+    height: 300px;
+    display: flex;
+    position: relative;
+    text-align: center;
+    bottom: -0.12%;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2), 0px 1px 4px rgba(0, 0, 0, 0.14), 0px 1px 10px rgba(0, 0, 0, 0.12);
+}
+input {
+    position: absolute;
+    left: 14.27%;
+    right: 14.41%;
+    top: 36.19%;
+    bottom: 43.71%;
+    background: #FFFFFF;
+    box-sizing: border-box;
+    border: 2px solid hsl(0, 1%, 73%);;
+    border-radius: 4px;
+    position: absolute;
+    text-align: center;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+/* identical to box height */
+
+
+color: #B1B1B1;
+outline: none;
+    
+   
+}
+
+input:focus {
+    border: 1px solid #FF6900;
+}
+
+.btn-find {
+    position: absolute;
+    left: 14.41%;
+    right: 14.55%;
+    top: 68.56%;
+    bottom: 12.54%;
+    border: 2px solid #FF6900;
+    border-radius: 5px;
+    color: #FF6900;
+    background-color: #FFFFFF;    
+    font-family: 'Proxima Nova';
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 24px;
+}
+
+.img2 {
+    position:absolute;
+    margin-left: 100px;
+    margin-top: 50px;
+
+
+}
+.img3 {
+    position:absolute;
+    margin-left: 110px;
+    margin-top: 55px;
+    z-index: 1;
+}
+
+.numreserva {
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 24px;
+    color: #FF6900;
+    margin-left: 130px;
+    margin-top: 50px;
+}
+
+.inputerror {
+    display: flex;
+    position: absolute;
+    margin-top: 170px;
+    margin-left: 80px;
+    width: 300px;
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 12px;
+    color: #E63737;
+    
+}
+
